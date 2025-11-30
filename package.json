@@ -1,0 +1,8 @@
+{
+  "name": "rad-scanner",
+  "version": "1.0.0",
+  "description": "RAD (Resistance After Dip) Scanner - Daily swing trading setup finder",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
